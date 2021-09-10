@@ -12,7 +12,7 @@
   <img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://www.criarbanner.com.br" title="criar banner" target="_blank"><img src="https://www.criarbanner.com.br/criargifs/a/fbb55ada04a449b03eecd18f2b1eb92f.gif" width="300" height="300" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank">criar logotipo</a>
+  <a href="https://www.criarbanner.com.br" title="criar banner" target="_blank"><img src="https://www.criarbanner.com.br/criargifs/a/be3e03b9de7bcd078b723711864e0bc1.gif" width="125" height="125" border="0" /></a><br /><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank">criar logotipo</a>
     
   ##
  
