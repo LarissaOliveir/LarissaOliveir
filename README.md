@@ -3,7 +3,7 @@
  <div align="inline_block">
   <a href="https://github.com/larissaOliveir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaOliveir&border_color=f0f8ff&border_radius=17&show_icons=true&text_color=1a6cad&title_color=f0f8ff&icon_color=f0f8ff&bg_color=DEG,020024,230979&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaOliveir&border_color=f0f8ff&border_radius=8&layout=compact&langs_count=7&text_color=C9D1D9&title_color=58A6FF&icon_color=3CB371&bg_color=DEG,230979,1f6674"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaOliveir&border_color=f0f8ff&border_radius=8&layout=compact&langs_count=7&text_color=1a6cad&title_color=f0f8ff&icon_color=f0f8ff&bg_color=DEG,230979,1f6674"/>
 </div>
  
   <div style="display: inline_block"><br>
