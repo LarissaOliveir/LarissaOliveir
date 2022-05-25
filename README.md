@@ -1,10 +1,11 @@
 ### Hi, eu sou a Larissa 👋
- <div>
-  <a href="https://github.com/LarissaOliveir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaOliveir&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaOliveir&layout=compact&langs_count=7&theme=midnight-purple"/>
+ 
+ <div align="center">
+  <a href="https://github.com/larissaOliveir">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaOliveir&border_color=f0f8ff&border_radius=17&show_icons=true&text_color=1a6cad&title_color=f0f8ff&icon_color=f0f8ff&bg_color=DEG,020024,230979&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaOliveir&border_color=f0f8ff&border_radius=8&layout=compact&langs_count=7&text_color=C9D1D9&title_color=58A6FF&icon_color=3CB371&bg_color=DEG,230979,1f6674"/>
 </div>
-
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="Larissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Larissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
