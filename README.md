@@ -13,7 +13,7 @@
  
  <div style="display: center">
   <a href="https://github.com/larissaOliveir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaOliveir&border_color=f0f8ff&border_radius=17&show_icons=true&text_color=1a6cad&title_color=f0f8ff&icon_color=f0f8ff&bg_color=DEG,020024,020024,230979&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissaOliveir&border_color=f0f8ff&border_radius=17&show_icons=true&text_color=fff0ff&title_color=f0f8ff&icon_color=ffff0f&bg_color=DEG,020024,020024,230979&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaOliveir&border_color=f0f8ff&border_radius=8&layout=compact&langs_count=7&text_color=f0f8ff&title_color=f0f8ff&icon_color=f0f8ff&bg_color=230979"/>
 </div>
  
