@@ -7,8 +7,6 @@
 - 🥁  Um dos meus instrumentos favoritos é: bateria...
 - 👩‍💻  Desenvolvedora Front-End... 
 - 📋  Estagiaria FullStack na Sete7 Informatica
-
- 
  
  
  <div style="display: center">
