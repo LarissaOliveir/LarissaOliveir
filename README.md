@@ -1,4 +1,4 @@
-### Hi  👋, eu sou a Larissa  👩 e estou cursando Análise e Desenvolvimento de Sistemas na Estácio. 
+### Hi  👋, eu sou a Larissa  👩 e sou formada em Análise e Desenvolvimento de Sistemas na Estácio. 
 
 
 - 🔭  Gosto de todos os estilos de músicas...
@@ -6,7 +6,7 @@
 - 🍣  Minha comida preferida é: sushi...
 - 🥁  Um dos meus instrumentos favoritos é: bateria...
 - 👩‍💻  Desenvolvedora Front-End... 
-- 📋  Estagiaria FullStack na Sete7 Informatica
+- 📋  Auxiliar de informática na Sete7 Informatica
  
  
  <div style="display: center">
